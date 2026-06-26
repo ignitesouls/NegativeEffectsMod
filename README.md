@@ -7,11 +7,11 @@ Places a lot of effects onto the Player throughout their journey.
 - Normal Poison
 - Baldachin's Blessing
 - Winged Greathorn
-- 15% PHYSICAL DMG from Greyoll's Roar
+- -15% PHYSICAL DMG from Greyoll's Roar
 - Lulling Branch Sleep Build Up
 - Talisman of All Crucible Debuff
 - Beloved Stardust Debuff
-- 15% Healing
+- -15% Healing
 - Gideon Debuff
 - Normal Scarlet Rot
 - DS3 Maggots after a certain point
